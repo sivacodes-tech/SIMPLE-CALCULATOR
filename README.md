@@ -1,8 +1,8 @@
-python-calculator/
-├── .gitignore
-├── LICENSE
-├── README.md
-├── calculator.py
+python-calculator/ /n
+├── .gitignore/n
+├── LICENSE/n
+├── README.md/n
+├── calculator.py/n
 └── main.py 
 
 class Calculator:
